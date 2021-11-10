@@ -1,0 +1,29 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumb {
+    margin-bottom: 20px!important;
+}
+
+.el-card {
+    box-shadow: 0 1px 1px rgb(0, 0, 0, 0.15)!important;
+}
+/* .el-cascader {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+} */
+.el-table{
+    margin-top: 0 !important;
+}
+.el-input{
+    width: 100%;
+}
+.el-dialog__body{
+    padding: 0 !important;
+  }
